@@ -14,7 +14,7 @@ A proposta desse projeto é a implementação de um sistema de monitoramento 24 
 
 A tabela abaixo indica os componentes utilizados, bem como o preço deles (30/08/2023). Dessa maneira, é possível realizar um levantamento de custos. É importante ressaltar que não foram inclusos dispositivos Apple, mas é um material obrigatório para o sistema.
 
-![image](https://github.com/samuellbs/Camera_raspberry/assets/103770785/5b0ba676-8ccc-4689-94f4-4617c6158058)
+![image](https://github.com/samuellbs/Camera_Rasp/assets/103770785/24377a99-6b14-4ed3-aadf-40a9554824dd)
 
 A figura abaixo representa o diagrama de blocos do sistema.
 
